@@ -1,1 +1,1 @@
-# Python data science project either from Datacamp or from other courses or own projects
+# Python data science own projects. Datasets are either from Datacamp or from other sources
