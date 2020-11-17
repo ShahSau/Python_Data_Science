@@ -1,1 +1,1 @@
-# Python data science projects.
+# Python data science projects from datacamp.
