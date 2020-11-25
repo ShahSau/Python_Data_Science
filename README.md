@@ -1,1 +1,2 @@
-# Python data science projects from datacamp.
+# Data science projects using Pyhton
+Data are colledted from datacamp.
